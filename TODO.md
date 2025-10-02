@@ -1,0 +1,5 @@
+- [x] Add fade-in class to hero section in index.html
+- [x] Add animated background gradient to hero in style.css
+- [x] Add floating animation to profile photo
+- [x] Add entrance animations to hero text and button
+- [x] Test the initial display for attractiveness
